@@ -1,3 +1,5 @@
+# Please Note this project has many errors which I will not address because its not worth the valuable time I currently don't want to waste
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
